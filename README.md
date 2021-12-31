@@ -80,7 +80,7 @@ DNMP项目特点：
 1. 本地安装
     - `git`
     - `Docker`(系统需为Linux，Windows 10 Build 15063+，或MacOS 10.12+，且必须要`64`位）
-    - `docker-compose 1.7.0+` 安装`python3 -m pip install docker-compose`
+    - `docker-compose 1.7.0+` ( 安装`python3 -m pip install docker-compose` )
 2. `clone`项目：
     ```
     $ git clone https://github.com/yeszao/dnmp.git
